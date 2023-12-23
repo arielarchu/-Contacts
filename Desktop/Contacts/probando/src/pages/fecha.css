@@ -1,0 +1,15 @@
+body{
+    font-family: promorius;
+    font-style: italic;
+    font-weight: bold;
+    padding: 10px;
+    display: block;
+    font-size: 40px;
+    color: green;
+   }
+
+   .fechita {
+    color: green;
+    padding: 10px;
+  }
+  
